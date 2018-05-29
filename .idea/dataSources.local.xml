@@ -8,5 +8,16 @@
       <auth-required>false</auth-required>
       <introspection-schemas>*:main</introspection-schemas>
     </data-source>
+    <data-source name="Rails sample_app: test" uuid="28d672a8-7871-4566-950e-da388be011b8">
+      <database-info product="SQLite" version="3.20.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.20.1.1" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <introspection-schemas>*:main</introspection-schemas>
+    </data-source>
+    <data-source name="Rails sample_app: development" uuid="38624107-7c28-4f76-a804-55426342d70c">
+      <database-info product="SQLite" version="3.20.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.20.1.1" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:main</introspection-schemas>
+    </data-source>
   </component>
 </project>
