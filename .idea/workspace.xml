@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="159adfa8-f088-4914-95cf-a85ba8c04896" name="Default" comment="" />
+    <list default="true" id="159adfa8-f088-4914-95cf-a85ba8c04896" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +119,7 @@
       <file leaf-file-name="production.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="830">
+            <state relative-caret-position="191">
               <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
             </state>
           </provider>
@@ -124,8 +128,8 @@
       <file leaf-file-name="database.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="268">
+              <caret line="22" selection-start-line="22" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -200,7 +204,6 @@
         <option value="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/account_activations_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-        <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/sessions/new.html.erb" />
@@ -215,6 +218,7 @@
         <option value="$PROJECT_DIR$/app/controllers/password_resets_controller.rb" />
         <option value="$PROJECT_DIR$/test/integration/password_resets_test.rb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/config/environments/production.rb" />
       </list>
     </option>
   </component>
@@ -238,7 +242,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1275" />
-    <option name="y" value="309" />
+    <option name="y" value="308" />
     <option name="width" value="1140" />
     <option name="height" value="841" />
   </component>
@@ -559,7 +563,7 @@
       <workItem from="1527597237538" duration="43000" />
       <workItem from="1527597815196" duration="79000" />
       <workItem from="1527598392116" duration="222000" />
-      <workItem from="1527600997351" duration="1107000" />
+      <workItem from="1527600997351" duration="2154000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize repository">
       <created>1527231328877</created>
@@ -702,7 +706,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55045000" />
+    <option name="totallyTimeSpent" value="56092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -714,7 +718,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1275" y="309" width="1140" height="841" extended-state="0" />
+    <frame x="1275" y="308" width="1140" height="841" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.23224044" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49908924" weight="0.3293011" />
@@ -1138,15 +1142,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="830">
+        <state relative-caret-position="191">
           <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="268">
+          <caret line="22" selection-start-line="22" selection-end-line="24" />
         </state>
       </provider>
     </entry>
