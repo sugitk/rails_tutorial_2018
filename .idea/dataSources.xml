@@ -32,5 +32,11 @@
         <property name="enable_load_extension" value="true" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="da3njiomc8nnus@ec2-75-101-142-91.compute-1.amazonaws.com" uuid="85c42567-93ca-40d0-84a2-f5028e2a5961">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-75-101-142-91.compute-1.amazonaws.com:5432//ec2-75-101-142-91.compute-1.amazonaws.com:5432/da3njiomc8nnus</jdbc-url>
+    </data-source>
   </component>
 </project>

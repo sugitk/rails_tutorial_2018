@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="159adfa8-f088-4914-95cf-a85ba8c04896" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sample_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
-    </list>
+    <list default="true" id="159adfa8-f088-4914-95cf-a85ba8c04896" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -370,7 +366,7 @@
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
     <property name="SearchEverywhereHistoryKey" value="pa&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/controllers/password_resets_controller.rb&#10;passwor&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/integration/password_resets_test.rb&#10;user.rb&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/models/user.rb&#10;password_reset_con&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/controllers/password_resets_controller.rb&#10;routes.rb&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/config/routes.rb&#10;users_con&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/controllers/users_controller.rb&#10;signup_te&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/integration/users_signup_test.rb&#10;sessions_con&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/controllers/sessions_controller.rb&#10;account&#9;null&#9;null&#10;user_test&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/models/user_test.rb&#10;session_help&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/helpers/sessions_helper.rb&#10;users_sig&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/integration/users_signup_test.rb&#10;users_controller&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/controllers/users_controller.rb&#10;usermailer&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/mailers/user_mailer.rb&#10;development.rb&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/config/environments/development.rb&#10;downcase_&#9;null&#9;null&#10;fixtures/&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/fixtures&#10;users.yml&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/fixtures/users.yml&#10;users/in&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/views/users/index.html.erb&#10;custom.&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/assets/stylesheets/custom.scss&#10;users_control&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/controllers/users_controller.rb&#10;users_cont&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/controllers/users_controller.rb&#10;users_lo&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/integration/users_login_test.rb&#10;test_help&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/test_helper.rb&#10;test_hel&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/test_helper.rb&#10;routes&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/config/routes.rb&#10;application.html&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/views/layouts/application.html.erb&#10;signup&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/integration/users_signup_test.rb&#10;userscon&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/controllers/users_controller.rb&#10;new.html.erb&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/views/users/new.html.erb&#10;users_sign&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/test/integration/users_signup_test.rb&#10;sc&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/assets/stylesheets/custom.scss&#10;custom&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/assets/stylesheets/custom.scss&#10;new.html&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/views/users/new.html.erb&#10;routes.&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/config/routes.rb&#10;application&#9;FILE&#9;file:///Users/sugimura/RubymineProjects/sample_app/app/views/layouts/application.html.erb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL&#10;Sqlite (Xerial)" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -563,7 +559,7 @@
       <workItem from="1527597237538" duration="43000" />
       <workItem from="1527597815196" duration="79000" />
       <workItem from="1527598392116" duration="222000" />
-      <workItem from="1527600997351" duration="60000" />
+      <workItem from="1527600997351" duration="1107000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize repository">
       <created>1527231328877</created>
@@ -706,7 +702,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53998000" />
+    <option name="totallyTimeSpent" value="55045000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -719,18 +715,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1275" y="309" width="1140" height="841" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.23224044" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.23224044" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49908924" weight="0.3293011" />
       <window_info anchor="bottom" id="Docker" order="7" sideWeight="0.49908924" weight="0.3293011" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50455374" side_tool="true" weight="0.35887095" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3306011" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.3306011" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49635702" weight="0.34139785" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49726775" weight="0.33064517" />
       <window_info id="Structure" order="1" sideWeight="0.5030303" side_tool="true" weight="0.2586521" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49544626" visible="true" weight="0.41129032" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49544626" visible="true" weight="0.41129032" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39919356" />
       <window_info id="Favorites" order="2" sideWeight="0.501002" side_tool="true" weight="0.25409836" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24954462" />

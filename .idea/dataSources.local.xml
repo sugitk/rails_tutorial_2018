@@ -19,5 +19,11 @@
       <auth-required>false</auth-required>
       <introspection-schemas>*:main</introspection-schemas>
     </data-source>
+    <data-source name="da3njiomc8nnus@ec2-75-101-142-91.compute-1.amazonaws.com" uuid="85c42567-93ca-40d0-84a2-f5028e2a5961">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>ulglshpcslpcvw</user-name>
+    </data-source>
   </component>
 </project>
