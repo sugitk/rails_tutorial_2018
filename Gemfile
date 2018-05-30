@@ -36,6 +36,10 @@ gem 'will_paginate'
 #gem 'bootstrap-will_paginate'
 gem 'will_paginate-bootstrap4'
 
+# section 13
+gem 'carrierwave'
+gem 'mini_magick'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
@@ -55,6 +59,7 @@ end
 
 group :production do
   gem 'pg'
+  gem 'fog'
 end
 
 group :development do
